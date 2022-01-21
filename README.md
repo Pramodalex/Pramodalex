@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pramodalex
 - 👀 I’m interested in ... learning marketing and stuff
 - 🌱 I’m currently learning ... about nft
-- 💞️ I’m looking to collaborate on ...
+
 - 📫 How to reach me ...pramodar.rpt@gmail.com
 
 <!---
